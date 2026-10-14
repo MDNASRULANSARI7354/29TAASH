@@ -1,0 +1,6 @@
+{
+  "name": "29 Taash",
+  "description": "Authentic 29 Taash card game with 4-player team play, bidding, trump reveal, intelligent AI, hints, practice undo, offline and multiplayer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
